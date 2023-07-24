@@ -1,0 +1,19 @@
+/* Main Page */
+#main-page-heading {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+#main-page-hamburger {
+    color: black;
+    font-weight: bold;
+}
+#main-page-yakisoba {
+    color: black;
+}
+#main-page-steak {
+    color: black;
+}
+body.index {
+    background-color: rgb(178, 184, 158);
+}
