@@ -7,12 +7,15 @@
 #main-page-hamburger {
     color: black;
     font-weight: bold;
+    text-align: center;
 }
 #main-page-yakisoba {
     color: black;
+    text-align: center;
 }
 #main-page-steak {
     color: black;
+    text-align: center;
 }
 /*Hamburger Page */
 #hamburger-page-heading {
